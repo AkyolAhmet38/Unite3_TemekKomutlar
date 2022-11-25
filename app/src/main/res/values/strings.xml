@@ -12,4 +12,7 @@
     <string name="uyg10_name">Uygulama 10</string>
     <string name="uyg11_name">Uygulama 11</string>
     <string name="uyg12_name">Uygulama 12</string>
+    <string name="button">Button</string>
+    <string name="p">....</string>
+    <string name="sonu">Sonuç</string>
 </resources>
