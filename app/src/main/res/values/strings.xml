@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Temel Komutlar Unite-3</string>
+    <string name="uyg1_name">Uygulama 1 (Mantıksal Değişken)</string>
+    <string name="uyg2_name">Uygulama 2 (Tam Sayılar)</string>
+    <string name="uyg3_name">Uygulama 3 (Char Veri Tipi)</string>
+    <string name="uyg4_name">Uygulama 4 (ASCII Kodu)</string>
+    <string name="uyg5_name">Uygulama 5 (Ondalıklı Sayılar)</string>
+    <string name="uyg6_name">Uygulama 6</string>
+    <string name="uyg7_name">Uygulama 7 (Aritmetiksel Operatörler)</string>
+    <string name="uyg8_name">Uygulama 8</string>
+    <string name="uyg9_name">Uygulama 9</string>
+    <string name="uyg10_name">Uygulama 10</string>
+    <string name="uyg11_name">Uygulama 11</string>
+    <string name="uyg12_name">Uygulama 12</string>
+</resources>
