@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         btnUyg6 = findViewById(R.id.btnUyg6);
         btnUyg7 = findViewById(R.id.btnUyg7);
 
+
         btnUyg1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -80,6 +81,14 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this,Uyg7Activity.class);
                 startActivity(i);
+            }
+        });
+        Button uyg8 = findViewById(R.id.btnUyg8);
+        uyg8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent a = new Intent(MainActivity.this,Uyg8Activity.class);
+                startActivity(a);
             }
         });
     }

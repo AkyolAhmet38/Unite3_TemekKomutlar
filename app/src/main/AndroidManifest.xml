@@ -30,6 +30,8 @@
         <activity android:name=".Uyg5Activity" android:label="@string/uyg5_name"></activity>
         <activity android:name=".Uyg6Activity"></activity>
         <activity android:name=".Uyg7Activity"></activity>
+        <activity android:name=".Uyg8Activity"></activity>
+        <activity android:name=".Uyg9Activity"></activity>
     </application>
 
 </manifest>
